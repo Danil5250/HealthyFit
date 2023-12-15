@@ -1,0 +1,1 @@
+HealthyFit is a project, auth passes with jwt token, client can see news, calc his perfect weight and sign in, or sign up. In user profile you can see trains, see news, products, throw challenge someone, see your data. Admin can make CRUD on news, product, trains and exercises, delete comments
